@@ -1,0 +1,16 @@
+/home/vinicius/dotnet/StringsCSharp/Guids/bin/Debug/net5.0/Guids
+/home/vinicius/dotnet/StringsCSharp/Guids/bin/Debug/net5.0/Guids.deps.json
+/home/vinicius/dotnet/StringsCSharp/Guids/bin/Debug/net5.0/Guids.runtimeconfig.json
+/home/vinicius/dotnet/StringsCSharp/Guids/bin/Debug/net5.0/Guids.runtimeconfig.dev.json
+/home/vinicius/dotnet/StringsCSharp/Guids/bin/Debug/net5.0/Guids.dll
+/home/vinicius/dotnet/StringsCSharp/Guids/bin/Debug/net5.0/ref/Guids.dll
+/home/vinicius/dotnet/StringsCSharp/Guids/bin/Debug/net5.0/Guids.pdb
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.csproj.AssemblyReference.cache
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.AssemblyInfoInputs.cache
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.AssemblyInfo.cs
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.csproj.CoreCompileInputs.cache
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.dll
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/ref/Guids.dll
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.pdb
+/home/vinicius/dotnet/StringsCSharp/Guids/obj/Debug/net5.0/Guids.genruntimeconfig.cache
