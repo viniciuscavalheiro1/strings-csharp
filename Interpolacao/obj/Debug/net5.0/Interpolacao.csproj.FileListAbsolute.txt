@@ -1,0 +1,16 @@
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/bin/Debug/net5.0/Interpolacao
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/bin/Debug/net5.0/Interpolacao.deps.json
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/bin/Debug/net5.0/Interpolacao.runtimeconfig.json
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/bin/Debug/net5.0/Interpolacao.runtimeconfig.dev.json
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/bin/Debug/net5.0/Interpolacao.dll
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/bin/Debug/net5.0/ref/Interpolacao.dll
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/bin/Debug/net5.0/Interpolacao.pdb
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.csproj.AssemblyReference.cache
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.AssemblyInfoInputs.cache
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.AssemblyInfo.cs
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.csproj.CoreCompileInputs.cache
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.dll
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/ref/Interpolacao.dll
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.pdb
+/home/vinicius/dotnet/StringsCSharp/Interpolacao/obj/Debug/net5.0/Interpolacao.genruntimeconfig.cache
